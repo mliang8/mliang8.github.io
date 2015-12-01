@@ -1,0 +1,202 @@
+
+
+
+
+
+.navbar-default {
+	height: 20px;
+  background-color: #ffffff;
+  border-radius: 2;
+  background-image: none;
+}
+.navbar-default .navbar-brand {
+  color:  #669999;
+  font-family: 'Times', serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #293d3d;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #85adad;
+  font-family: 'Times', serif;
+  font-size: 18px;
+}
+
+.navbar-header .navbar-toggle {
+  color: #527a7a;
+
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color:#e0ebeb;
+  color:#283e3e;
+}
+.portfolio-thumbnail {
+background-color: #c2d6d6;
+border-width: 2px;
+border-style: solid;
+border-color:#f0f5f5;
+}
+
+.portfolio-thumbnail:hover {
+  border-width: 5px; 
+  border-color: #5c8989;
+}
+
+.portfolio-thumbnail img{
+  height:250px;
+
+}
+
+.portfolio-title {
+  font-weight: bold;
+}
+
+#profile{
+  max-height: 300px;
+  padding-bottom: 1%;
+ }
+
+
+
+#social img{
+	height:35px;
+	padding-bottom: 0.3%;
+
+}
+h2{
+  font-weight: bolder;
+  text-align:justify;
+  font-size: 40px;
+  
+  color:#334c4c;
+  font-family: "Times New Roman", Times, sans-serif
+}
+h3{
+  text-align: :center;
+  font-size:30px;
+  color:#3d5b5c ;
+  font-family: "Ariel";
+}
+
+/*.contact h3{
+  font-weight: bold;
+  color:#486b6b;
+  font-size: 25px;
+}*/
+
+.resume h3 {
+  font-size:30px;
+  font-weight: bold;
+  
+}
+
+.resume h4 {
+  color:#75a3a3;
+  font-family:'Times', serif; 
+  font-weight: bold;
+}
+h5{
+	color:#5c8989;
+	font-family: 'Times', serif;
+	font-weight: bolder;
+	font-size: 50px;
+	padding-top: 2%
+}
+}
+
+
+
+
+hr {
+  border-color: #c2d6d6;
+  border-width:2.5px;
+}
+
+
+ul {
+  
+  font-family:'Times', serif;
+}
+
+a {
+  color: #76a3a3;
+}
+a:hover {
+  color: #334c4c;
+}
+#social a:hover{
+  color:#f0f5f5;
+  
+}
+
+
+h6 {
+  text-align: center;
+	color: #5c8989;
+	font-size: 14px;
+	font-family: 'Times', serif;
+	padding: 4%
+}
+
+h2:{
+  text-align:left;
+  color:#f0f5f5;
+}
+
+
+p{
+  font-size: 20px;
+  font-family: 'Times', serif;
+}
+
+.project{
+  color: #334c4c;
+}
+
+
+.jumbotron{
+
+    height: 300px;
+    text-align: center;
+    background-color: #e0ebeb;
+    padding-bottom: 5%;
+}
+
+#footerwrap{
+    text-align: center;
+    background-color: #e0ebeb;
+    padding: 4%;
+
+}
+
+
+.container-fluid{
+	position: absolute;
+    left: 0px;
+    width: 300px;
+    border:3px solid #73AD21;
+    padding: 10px;
+
+}
+
+
+.portfolio-image{
+ 
+  /*height: 80%;
+  width: 80%;*/
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+.portfolio-description{
+  text-align: left;
+}
