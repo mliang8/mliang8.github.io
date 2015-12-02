@@ -73,7 +73,7 @@ border-color:#f0f5f5;
 }
 h2{
   font-weight: bolder;
-  text-align:justify;
+  /*text-align:justify;*/
   font-size: 40px;
   
   color:#334c4c;
