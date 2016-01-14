@@ -164,9 +164,10 @@ p{
 
 .jumbotron{
 
-    height: 350px;
+    /*height: 350px;*/
     /*text-align: center;*/
     background-color: #e0ebeb;
+    
     padding: 5%;
 }
 
