@@ -11,7 +11,7 @@
 }
 .navbar-default .navbar-brand {
   color:  #669999;
-  font-family: 'Times', serif;
+  font-family: 'Didone', sans-serif;
   font-size: 20px;
   font-weight: bold;
 }
@@ -24,7 +24,7 @@
 }
 .navbar-default .navbar-nav > li > a {
   color: #85adad;
-  font-family: 'Times', serif;
+  font-family: 'Didone', sans-serif;
   font-size: 18px;
 }
 
@@ -100,7 +100,7 @@ h3{
 
 .resume h4 {
   color:#75a3a3;
-  font-family:'Avenir', sans-serif; 
+  font-family:'Didone', sans-serif; 
   font-weight: bold;
 }
 h5{
