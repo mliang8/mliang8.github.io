@@ -11,7 +11,7 @@
 }
 .navbar-default .navbar-brand {
   color:  #669999;
-  font-family: 'Didone', sans-serif;
+  font-family: 'Circular', sans-serif;
   font-size: 20px;
   font-weight: bold;
 }
@@ -24,7 +24,7 @@
 }
 .navbar-default .navbar-nav > li > a {
   color: #85adad;
-  font-family: 'Didone', sans-serif;
+  font-family: 'Circular', sans-serif;
   font-size: 18px;
 }
 
@@ -67,10 +67,26 @@ border-color:#f0f5f5;
 
 
 #social img{
-	height:35px;
+	height:43px;
 	padding-bottom: 0.3%;
+  padding-left: 0.5cm;
 
 }
+
+#con_social img{
+  height:60px;
+  padding-bottom: 0.3%;
+  padding-left: 0.5cm;
+
+}
+
+.contact img {
+  height:46px;
+  padding-bottom: 0.3%;
+  padding-left: 0.5cm;
+}
+
+
 h2{
   font-weight: bolder;
   /*text-align:justify;*/
