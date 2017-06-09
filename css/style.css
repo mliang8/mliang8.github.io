@@ -141,11 +141,12 @@ h2{
   color:#334c4c;
   font-family: "Avenir", sans-serif
 }
+
 h3{
   text-align: :center;
   font-size:30px;
   color:#3d5b5c ;
-  font-family: "Futura";
+  font-family:"Avenir";
 }
 
 /*.contact h3{
@@ -162,7 +163,7 @@ h3{
 
 .resume h4 {
   color:#75a3a3;
-  font-family:'Didone', sans-serif; 
+  font-family:'Avenir', sans-serif; 
   font-weight: bold;
 }
 h5{
@@ -269,4 +270,9 @@ p{
 
 .portfolio-description{
   text-align: left;
+}
+
+.download_button {
+  font-family: 'Avenir';
+
 }
