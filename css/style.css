@@ -170,8 +170,8 @@ h5{
 	color:#5c8989;
 	font-family: 'Avenir', sans-serif;
 	font-weight: bolder;
-	font-size: 50px;
-	padding-top: 1%
+	font-size: 40px;
+	padding-top: 2%
 }
 }
 
@@ -239,8 +239,7 @@ p{
 #footerwrap{
     text-align: center;
     background-color: #e0ebeb;
-    padding: 4%;
-
+    padding: 1%;
 }
 
 
